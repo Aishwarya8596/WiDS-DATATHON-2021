@@ -1,4 +1,5 @@
 # WiDS-DATATHON-2021
+Link to the competition: https://www.kaggle.com/c/widsdatathon2021
 
 Predicted diabetes in ICU patients using LGBM, XGBoost, and KNN algorithm
 
